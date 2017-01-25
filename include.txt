@@ -1,0 +1,7 @@
+#
+#Screen all MS/MS spectra for the following product ions (Leave blank for none)
+86.09686
+100.11230
+#
+#Screen for the following neutral losses
+18.0105647
